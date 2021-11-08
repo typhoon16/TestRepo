@@ -1,1 +1,2 @@
 file1 from main
+file2 from main
